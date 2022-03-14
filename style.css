@@ -1,0 +1,50 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #272829;
+
+  }
+  
+  a {
+    color: #9cadb6;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  a:hover {
+    color: #f8fdff;
+    text-decoration: none;
+  }
+  
+  
+ .container{
+   margin-left: 0%;
+   margin-right: 0%;
+ }
+
+ #mine{
+   border-radius: 50%;
+ }
+
+ .footercontainer{
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: 50px;
+ }
+ p{
+  font-family: 'Arimo', sans-serif;
+  font-size: 18px;
+ }
+#head{
+  font-family:'Courgette', sans-serif ;
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+}
+#head1{
+  font-family:'Libre+Baskerville', sans-serif ;
+}
+#para{
+  font-family:'Frank+Ruhl+Libre:wght@300', sans-serif ;
+}
